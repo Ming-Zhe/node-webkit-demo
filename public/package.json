@@ -1,0 +1,8 @@
+{
+  "name": "nw-demo",
+  "main": "final.html",
+  "version": "0.1.0",
+  "window": {
+  	"toolbar": false
+  }
+}

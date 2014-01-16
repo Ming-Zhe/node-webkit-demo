@@ -1,6 +1,6 @@
 {
   "name": "nw-demo",
-  "main": "final.html",
+  "main": "index.html",
   "version": "0.1.0",
   "window": {
   	"toolbar": false
